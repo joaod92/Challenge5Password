@@ -5,7 +5,10 @@ The application then generates a random password following the users' inputs thr
 
 The website can be viewed here: (https://joaod92.github.io/Challenge5Password)
 
-<img src="./assets/05-javascript-challenge-demo.png)">
+Here is a screenshot below of the application:
+
+![Demo Screenshot](assets/05-javascript-challenge-demo.png)
+
 
 ## Installation
 No Installation required for this project. Please run the index.html file on your preffered browser of choice, in any device. 
